@@ -1,0 +1,21 @@
+body {
+    margin-top: 400px;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width:40%;
+    margin: auto;
+    background-color:brown;
+    padding: 10px 20px 30px 40px;
+    border:2px solid black;
+}
